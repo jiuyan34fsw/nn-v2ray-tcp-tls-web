@@ -1,4 +1,4 @@
-# VLESS / Trojan-Go / Shadowsocks
+# 1-VLESS / Trojan-Go / Shadowsocks
 automated script for xray-core and trojan-go
 
 ## Usage
